@@ -1,0 +1,49 @@
+# Miscellaneous
+*.csv
+*.pem
+*.key
+*.env
+app/*.env
+app/*.pem
+app/env/
+
+# Ui Path
+.local/
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Environment variables
+.env
+
+# IDE and editor specific
+.vscode/
+.idea/
+*.swp
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and debug files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+
+# Cache files
+*.cache
+*.temp
+*.tmp
+.cache/
